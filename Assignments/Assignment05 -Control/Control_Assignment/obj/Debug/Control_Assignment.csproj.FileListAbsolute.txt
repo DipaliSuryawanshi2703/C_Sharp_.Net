@@ -1,0 +1,11 @@
+D:\C#\Assignment05 -Control\Control_Assignment\obj\Debug\Control_Assignment.csproj.AssemblyReference.cache
+D:\C#\Assignment05 -Control\Control_Assignment\bin\Debug\Control_Assignment.exe.config
+D:\C#\Assignment05 -Control\Control_Assignment\bin\Debug\Control_Assignment.exe
+D:\C#\Assignment05 -Control\Control_Assignment\bin\Debug\Control_Assignment.pdb
+D:\C#\Assignment05 -Control\Control_Assignment\obj\Debug\Control_Assignment.frm_CheckBox_List.resources
+D:\C#\Assignment05 -Control\Control_Assignment\obj\Debug\Control_Assignment.Properties.Resources.resources
+D:\C#\Assignment05 -Control\Control_Assignment\obj\Debug\Control_Assignment.csproj.GenerateResource.cache
+D:\C#\Assignment05 -Control\Control_Assignment\obj\Debug\Control_Assignment.csproj.CoreCompileInputs.cache
+D:\C#\Assignment05 -Control\Control_Assignment\obj\Debug\Control_Assignment.exe
+D:\C#\Assignment05 -Control\Control_Assignment\obj\Debug\Control_Assignment.pdb
+D:\C#\Assignment05 -Control\Control_Assignment\obj\Debug\Control_Assignment.form.frm_Controls.resources
